@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ariefsonn
+- 👀 I’m interested in Mobile Developmet, and Data Analysis 
+- 🌱 I’m currently learning Flutter, and Pandas
+- 💞️ I’m looking to collaborate on Mobile App Project
+- 📫 How to reach me: belajarroy334@gmail.com
